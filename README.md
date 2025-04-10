@@ -43,8 +43,8 @@ This platform leverages a PPO-based Reinforcement Learning agent trained on real
 
 ## Quickstart (Local Dev)
 1. Clone & Setup
-- git clone https://github.com/yourusername/self-healing-agent.git
-- cd self-healing-agent
+- clone the repo
+- cd AI Self-Healing Agent
 - python -m venv venv
 - source venv/bin/activate  # or venv\Scripts\activate on Windows
 - pip install -r requirements.txt
